@@ -1,1 +1,1 @@
-# be-validation-setup
+This repository contains the Setup notebook for making backups of base editor validation data and running FASTQC on them.
